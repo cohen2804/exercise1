@@ -10,4 +10,5 @@ func main() {
 
 func newFunc() {
 	fmt.Println("Hello from newFunc of exercise 1")
+
 }
