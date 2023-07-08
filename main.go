@@ -9,6 +9,9 @@ func main() {
 }
 
 func exe1() {
-	fmt.Println("Hello from newFunc of exercise 1")
+	fmt.Println("Hello from exe1 of exercise 1")
+}
 
+func exe2() {
+	fmt.Println("Hello from exe2 of exercise 1")
 }
